@@ -8,11 +8,13 @@ This project was developed as one of the initial projects from the Algoritma aca
 - pandas
 - flask
 - matplotlib
+- request
+- dateparser
 
-Or you just need to install the requirements.txt in the following way
+Or you can use my environment by installing the my_environment.txt in the following way
 
 ```python
-pip install -r requirements.txt
+pip install -r my_environment.txt
 ```
 
 ## What we will do
